@@ -12,7 +12,9 @@ on:
     branches: ["master"]
 
   # Allows you to run this workflow manually from the Actions tab
-  on:
+name: deploy workflow
+
+on:
     workflow_dispatch:
     inputs:
       environment:
