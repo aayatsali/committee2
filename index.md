@@ -1,7 +1,7 @@
 ---
 title: Comittee
 layout: default
-bodyClass: "page-home"
+bodyClass: page page-home
 description: A place to add information about committee, share responsive regional plan details, and how to contribute
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
