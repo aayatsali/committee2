@@ -1,5 +1,7 @@
 ---
 title: "Example 8"
+layout: default 
+bodyClass: "page-service"
 date: 2019-06-18T12:33:46+10:00
 weight: 8
 ---
