@@ -16,14 +16,7 @@ name: deploy workflow
 
 on:
     workflow_dispatch:
-    inputs:
-      environment:
-        description: 'Environment to deploy to'
-        required: true
-        default: 'staging'
-      version:
-        description: 'Application version'
-        required: true
+
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
